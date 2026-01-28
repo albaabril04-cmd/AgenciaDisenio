@@ -1,3 +1,3 @@
-public class Anuncio {
+public class AnuncioTV {
     int codigoAnuncio=0;
 }
